@@ -1,3 +1,4 @@
+<html>
 Hilo explicación OpenAI ADS Manager:
 https://chatgpt.com/c/6aec78bc-fcc4-83e9-9f26-0bee266e8f0b
 
@@ -21,5 +22,5 @@ https://help.openai.com/en/articles/20001409-conversion-measurement?utm_source=c
 <img width="1881" height="820" alt="imagen" src="https://github.com/user-attachments/assets/251bc1d7-7b73-4e48-a4ee-faf7678bfe80" />
 
 
-
+</html>
 
